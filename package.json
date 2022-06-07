@@ -1,9 +1,9 @@
 {
-  "name": "helioslauncher",
+  "name": "ValharionLauncher",
   "version": "1.9.0",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "Valharion Launcher",
+  "description": "Launcher officiel de Valharion",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) and HedaLexa",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
